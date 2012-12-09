@@ -1,0 +1,8 @@
+﻿<Window x:Class="CustomizedClickOnce.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Happy New Year" SizeToContent="WidthAndHeight" Icon="Snowflake-icon.ico">
+    <Grid Background="Azure">
+        <Image Source="Snowflake-icon.png" Stretch="None"></Image>
+    </Grid>
+</Window>
